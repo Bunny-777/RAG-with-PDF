@@ -13,8 +13,10 @@ A lightweight Retrieval-Augmented Generation (RAG) app that lets you upload any 
 
 
 ## Screenshots
-![Home page](screenshots\1.png)
-![Chat page](screenshots\2.png)
+
+<img width="1919" height="1079" alt="Screenshot 2026-06-27 001606" src="https://github.com/user-attachments/assets/e2143296-7213-442b-a78a-c3252c31e922" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-27 001558" src="https://github.com/user-attachments/assets/8ee007fa-d058-42cd-98ae-65f330cb1de8" />
+
 
 ## Tech stack
 
