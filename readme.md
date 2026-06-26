@@ -11,6 +11,10 @@ A lightweight Retrieval-Augmented Generation (RAG) app that lets you upload any 
 - Per-document chat history, with options to clear the conversation or swap documents
 - Custom-themed UI — no default Streamlit styling
 
+
+## Screenshots
+
+
 ## Tech stack
 
 | Layer        | Tool                                              |
