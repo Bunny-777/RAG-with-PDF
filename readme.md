@@ -13,7 +13,8 @@ A lightweight Retrieval-Augmented Generation (RAG) app that lets you upload any 
 
 
 ## Screenshots
-
+![Home page](screenshots\1.png)
+![Chat page](screenshots\2.png)
 
 ## Tech stack
 
